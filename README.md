@@ -9,7 +9,7 @@ With growth in the user database we can begin recommending crops to sow, based o
 ### Technology used: 
 PHP, HTML, CSS, MySQL
 
-The project_report file contains a detailed description of the features of the project
+* The project_report file contains a detailed description of the features of the project
 
-### Learning
+### Learning:
 This project helped us to understand a problem from user perspective, plan use case analysis and to ask the right questions to develop a software product. We were able to use the knowledge gained from "Database Management System" course in our college and this wonderful book on php (https://www.oreilly.com/library/view/head-first-php/9780596157739/), to integrate web applications and database management systems.
