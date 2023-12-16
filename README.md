@@ -1,5 +1,7 @@
 # sales-management-system-for-farmers
 
+A web portal that streamlines sales analysis for farmers by digitalizing the bills and generating insightful reports which will help them in strategic seasonal planning and optimized decision making.
+
 ### Problem statement:
 In India, where there are many small farmers, the sale of farm produce ocuures in day to day basis. The shop keepers generally provide a bill containing all transactions at the end of the month. This bill which is mostly hand written, is difficult to store and retrieve in the long run. So by digitizing the bill, we allow the user to view their sales data easily and efficiently. This also provides the opportunity to create reports on sales based on crop, rate, month, shop, etc. 
 With growth in the user database we can begin recommending crops to sow, based on estimated prices. This will help empower the farmer to make the crucial decision of when, where and how to sell their valuable produce
